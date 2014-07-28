@@ -1,3 +1,4 @@
+Test
 This files describes API changes in /theme/* themes,
 information provided here is intended especially for theme designer.
 
